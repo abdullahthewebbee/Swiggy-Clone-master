@@ -11,9 +11,7 @@ The User/Customer can search for his/her location here & can find restaurants in
 # Footer Page
 The user can view restaurants of different categories here & can filter them according to his/her needs (Eg. By Pricing, By ratings, etc.)
 
-<!--![alt text](https://github.com/in-imitable/Swiggy-Clone/blob/master/project_img/Screenshot%20(51).png)-->
 
-![alt text](https://github.com/in-imitable/Swiggy-Clone/blob/master/project_img/Screenshot%20(54).png)
 
 ## Getting Started
 
@@ -31,11 +29,9 @@ Just fork it and you are good to go.
 
 ## Authors
 
-👤 **Atul Kumar**
-
-- Github: [@Atul Kumar](https://github.com/in-imitable)
-- Linkedin: [Atul Kumar](https://www.linkedin.com/in/atul-kumar-6aa351154/)
-- Email: (atul69030@gmail.com)
+👤 **Muhammad Abdullah**
+- Linkedin: [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-18a636221/)
+- Email: (abdullahtheweb@gmail.com)
 
 ## 🤝 Contributing
 
