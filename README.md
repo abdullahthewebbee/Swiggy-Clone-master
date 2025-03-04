@@ -1,5 +1,5 @@
 # Swiggy-Clone
-Make Swiggy Clone Website using HTML/CSS
+Make Swiggy Clone Website using HTML/CSS.
 
 
 # Landing Page
