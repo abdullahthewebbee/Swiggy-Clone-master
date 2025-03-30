@@ -1,7 +1,6 @@
 # Swiggy-Clone.
 Make Swiggy Clone Website using HTML/CSS
 
-
 # Landing Page
 The User/Customer can search for his/her location here & can find restaurants in their locality( for the demo we have restaurant info of Delhi,India only)
 # 
